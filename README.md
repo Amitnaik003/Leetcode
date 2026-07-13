@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amitnaik003/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Amitnaik003/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amitnaik003/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Amitnaik003/Leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Amitnaik003/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Amitnaik003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Amitnaik003/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Amitnaik003/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
