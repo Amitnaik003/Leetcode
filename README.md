@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amitnaik003/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1006-clumsy-factorial](https://github.com/Amitnaik003/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Amitnaik003/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Amitnaik003/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Amitnaik003/Leetcode/tree/master/0509-fibonacci-number) |
+| [1006-clumsy-factorial](https://github.com/Amitnaik003/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0054-spiral-matrix) |
+| [1006-clumsy-factorial](https://github.com/Amitnaik003/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Prefix Sum
 |  |
 | ------- |
