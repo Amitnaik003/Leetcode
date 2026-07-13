@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Amitnaik003/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Amitnaik003/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Amitnaik003/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Amitnaik003/Leetcode/tree/master/0330-patching-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amitnaik003/Leetcode/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/Amitnaik003/Leetcode/tree/master/0330-patching-array) |
 ## String
 |  |
 | ------- |
