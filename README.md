@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amitnaik003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amitnaik003/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Amitnaik003/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Amitnaik003/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Amitnaik003/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
