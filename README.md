@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Amitnaik003/Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Amitnaik003/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Amitnaik003/Leetcode/tree/master/0605-can-place-flowers) |
+| [0766-toeplitz-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0766-toeplitz-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amitnaik003/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0766-toeplitz-matrix) |
 ## Simulation
 |  |
 | ------- |
