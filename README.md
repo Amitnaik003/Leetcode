@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Amitnaik003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/Amitnaik003/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Amitnaik003/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amitnaik003/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/Amitnaik003/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Amitnaik003/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
