@@ -1,51 +1,48 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
+        Set<List<Integer>> ans = new HashSet<>();
         
-        // 1. Sort the array so two-pointer logic works
-        Arrays.sort(nums);
-        int n = nums.length;
+        // BUG FIX 1: Two-pointer logic demands a sorted array
+        Arrays.sort(nums); 
         
-        // Loop for the first element
-        for (int i = 0; i < n - 3; i++) {
-            // Skip duplicate values for the first element
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-            
-            // Loop for the second element
-            for (int j = i + 1; j < n - 2; j++) {
-                // Skip duplicate values for the second element
-                if (j > i + 1 && nums[j] == nums[j - 1]) continue;
-                
-                // Two pointers for the remaining two elements
+        int i = 0;
+        // BUG FIX 2: Variable j must be declared/reset INSIDE the first while loop
+        while(i < nums.length){ 
+            int j = i + 1; 
+            while(j < nums.length){
                 int k = j + 1;
-                int l = n - 1;
-                
-                while (k < l) {
-                    // Use long to prevent integer overflow
+                int l = nums.length - 1;
+                while(k < l){
+                    // BUG FIX 3: Cast to long to avoid 32-bit integer overflow
                     long sum = (long)nums[i] + nums[j] + nums[k] + nums[l];
                     
-                    if (sum == target) {
-                        ans.add(Arrays.asList(nums[i], nums[j], nums[k], nums[l]));
+                    if(sum == target){
+                        List<Integer> t = new ArrayList<>();
+                        t.add(nums[i]);
+                        t.add(nums[j]);
+                        t.add(nums[k]);
+                        t.add(nums[l]);
+                        ans.add(t);
                         
-                        // Skip duplicates for the third element
-                        while (k < l && nums[k] == nums[k + 1]) k++;
-                        // Skip duplicates for the fourth element
-                        while (k < l && nums[l] == nums[l - 1]) l--;
-                        
-                        k++;
-                        l--;
-                    } else if (sum > target) {
-                        l--;
+                        // Move pointers forward after a match to avoid infinite loop
+                        k = k + 1;
+                        l = l - 1;
+                    } else if(sum > target){
+                        l = l - 1;
                     } else {
-                        k++;
+                        k = k + 1;
                     }
                 }
+                j = j + 1;
             }
+            i = i + 1;
         }
-        return ans;
+        return new ArrayList<>(ans);
     }
 }
