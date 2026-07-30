@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Amitnaik003/Leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Amitnaik003/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amitnaik003/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Amitnaik003/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Amitnaik003/Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Amitnaik003/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Amitnaik003/Leetcode/tree/master/0605-can-place-flowers) |
