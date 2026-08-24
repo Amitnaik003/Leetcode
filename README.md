@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Amitnaik003/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Amitnaik003/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Amitnaik003/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amitnaik003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Amitnaik003/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Amitnaik003/Leetcode/tree/master/0509-fibonacci-number) |
+| [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Amitnaik003/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Amitnaik003/Leetcode/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/Amitnaik003/Leetcode/tree/master/1006-clumsy-factorial) |
+| [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Amitnaik003/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Amitnaik003/Leetcode/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Amitnaik003/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,4 +213,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Amitnaik003/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Amitnaik003/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Amitnaik003/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
