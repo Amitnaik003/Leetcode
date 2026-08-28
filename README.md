@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Amitnaik003/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
