@@ -1,16 +1,8 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Set<List<Integer>> ans = new HashSet<>();
-        
         // BUG FIX 1: Two-pointer logic demands a sorted array
         Arrays.sort(nums); 
-        
         int i = 0;
         // BUG FIX 2: Variable j must be declared/reset INSIDE the first while loop
         while(i < nums.length){ 
