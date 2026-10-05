@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Amitnaik003/Leetcode/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/Amitnaik003/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
+| [2469-convert-the-temperature](https://github.com/Amitnaik003/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Matrix
 |  |
 | ------- |
