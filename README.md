@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/Amitnaik003/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1872-stone-game-viii](https://github.com/Amitnaik003/Leetcode/tree/master/1872-stone-game-viii) |
 | [2469-convert-the-temperature](https://github.com/Amitnaik003/Leetcode/tree/master/2469-convert-the-temperature) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Amitnaik003/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Matrix
 |  |
 | ------- |
